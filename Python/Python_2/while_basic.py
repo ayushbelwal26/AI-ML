@@ -1,0 +1,4 @@
+i = 1 #iterator
+while i<= 5:
+    print(i)
+    i += 1
